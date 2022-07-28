@@ -23,5 +23,6 @@ int main()
             printf("%d \n", i);
         }
     }
+    printf("end of leet_code\n");
     return 0;
 }
